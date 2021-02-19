@@ -7,10 +7,10 @@
 
 /* Define function f(x) which
    is to be solved */
-#define   f(x)   
+#define   f(x)   sin(x)
 /* Write f(x) as x = g(x) and
    define g(x) here */
-#define   g(x)   
+#define   g(x)   -cos(x)
 using namespace std;
 
 int main()
